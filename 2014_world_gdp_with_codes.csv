@@ -1,4 +1,59 @@
 COUNTRY,GDP (BILLIONS),CODE
+Afghanistan,7800,AFG
+Albania,13.40,ALB
+Algeria,227.80,DZA
+American Samoa,0.75,ASM
+Andorra,4.80,AND
+Angola,131.40,AGO
+Anguilla,0.18,AIA
+Antigua and Barbuda,1.24,ATG
+Argentina,536.20,ARG
+Armenia,10.88,ARM
+Aruba,2.52,ABW
+Australia,1483.00,AUS
+Austria,436.10,AUT
+Azerbaijan,77.91,AZE
+"Bahamas, The",8.65,BHM
+Bahrain,34.05,BHR
+Bangladesh,186.60,BGD
+Barbados,4.28,BRB
+Belarus,75.25,BLR
+Belgium,527.80,BEL
+Belize,1.67,BLZ
+Benin,9.24,BEN
+Bermuda,5.20,BMU
+Bhutan,2.09,BTN
+Bolivia,34.08,BOL
+Bosnia and Herzegovina,19.55,BIH
+Botswana,16.30,BWA
+Brazil,2244.00,BRA
+British Virgin Islands,1.10,VGB
+Brunei,17.43,BRN
+Bulgaria,55.08,BGR
+Burkina Faso,13.38,BFA
+Burma,65.29,MMR
+Burundi,3.04,BDI
+Cabo Verde,1.98,CPV
+Cambodia,16.90,KHM
+Cameroon,32.16,CMR
+Canada,1794.00,CAN
+Cayman Islands,2.25,CYM
+Central African Republic,1.73,CAF
+Chad,15.84,TCD
+Chile,264.10,CHL
+China,10360.00,CHN
+Colombia,400.10,COL
+Comoros,0.72,COM
+"Congo, Democratic Republic of the",32.67,COD
+"Congo, Republic of the",14.11,COG
+Cook Islands,0.18,COK
+Costa Rica,50.46,CRI
+Cote d'Ivoire,33.96,CIV
+Croatia,57.18,HRV
+Cuba,77.15,CUB
+Curacao,5.60,CUW
+Cyprus,21.34,CYP
+Czech Republic,205.60,CZE
 Denmark,347.20,DNK
 Djibouti,1.58,DJI
 Dominica,0.51,DMA
@@ -36,7 +91,7 @@ Honduras,19.37,HND
 Hong Kong,292.70,HKG
 Hungary,129.70,HUN
 Iceland,16.20,ISL
-India,2048.00,IND
+India,20480.00,IND
 Indonesia,856.10,IDN
 Iran,402.70,IRN
 Iraq,232.20,IRQ
@@ -155,14 +210,14 @@ Uganda,26.09,UGA
 Ukraine,134.90,UKR
 United Arab Emirates,416.40,ARE
 United Kingdom,2848.00,GBR
-United States,17420.00,USA
-Uruguay,55.60,URY
-Uzbekistan,63.08,UZB
+United States,1720.00,USA
+Uruguay,155.60,URY
+Uzbekistan,1163.08,UZB
 Vanuatu,0.82,VUT
 Venezuela,209.20,VEN
-Vietnam,187.80,VNM
+Vietnam,1870.80,VNM
 Virgin Islands,5.08,VGB
-West Bank,6.64,WBG
-Yemen,45.45,YEM
-Zambia,25.61,ZMB
-Zimbabwe,13.74,ZWE
+West Bank,116.64,WBG
+Yemen,9500.45,YEM
+Zambia,15000,ZMB
+Zimbabwe,15000,ZWE
